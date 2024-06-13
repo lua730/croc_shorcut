@@ -1,4 +1,4 @@
-# croc_shortcut
+# croc shortcut
 Small program that you can use as shortcut on your desktop to use croc library for P2P File transfer.
 
 # usage
