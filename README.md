@@ -31,7 +31,7 @@ When opening a shortcut without a copied address in the clipboard, the default d
 ```pip install pyautogui```
 
 # settings on program top
-DEFAULT_DOWNLOAD_ADRESS - Adress that will be used to receive, if clipboard is empty. Suitable if you download from the same person every time.
+DEFAULT_DOWNLOAD_ADRESS - Adress that will be used to receive, if clipboard is empty. Suitable if you download from the same person every time. For example "croc yourfriendname".
 
 USER_NAME - Adress that will be used to send.
 
