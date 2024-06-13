@@ -21,7 +21,7 @@ Windows
     exit
     exit
    ```
-
+For more information visit: https://github.com/schollz/croc
 
 
 # required python libraries
