@@ -4,7 +4,7 @@ Small program that you can use as shortcut on your desktop to use croc library f
 # usage
 When you drag a file onto the shortcut on desktop, croc will send the file.
 
-When you open a shortcut, if there is a copied address in the clipboard (for example "croc bidonqt"), croc will begin downloading.
+When you open a shortcut, if there is a copied address in the clipboard (for example "croc yourfriendname"), croc will begin downloading.
 
 When opening a shortcut without a copied address in the clipboard, the default download address will be used, which can be specified in the settings in the top of the program.
 
