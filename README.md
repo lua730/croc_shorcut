@@ -9,7 +9,7 @@ When you open a shortcut, if there is a copied address in the clipboard (for exa
 When opening a shortcut without a copied address in the clipboard, the default download address will be used, which can be specified in the settings in the top of the program.
 
 # installing croc
-1. Windows
+Windows
 
    Paste comand below into Powershell.
    ```
@@ -21,8 +21,7 @@ When opening a shortcut without a copied address in the clipboard, the default d
     exit
     exit
    ```
-   
-3. For any other OS visit: https://github.com/schollz/croc
+
 
 
 # required python libraries
