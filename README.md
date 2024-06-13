@@ -1,5 +1,5 @@
 # croc_shortcut
-Small program that you can use as shortcut on your desktop to use croc library.
+Small program that you can use as shortcut on your desktop to use croc library for P2P File transfer.
 
 # usage
 When you drag a file onto the shortcut on desktop, croc will send the file.
