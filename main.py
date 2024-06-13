@@ -8,8 +8,8 @@ import pyperclip
 import time
 
 #CONSTS
-DEFAULT_DOWNLOAD_ADRESS = "croc bidonqt" #Adress that will be used to receive, if clipboard is empty. Suitable if you download from the same person every time.
-USER_NAME = "trilaryclinton" #Adress that will be used to send.
+DEFAULT_DOWNLOAD_ADRESS = "croc yourfriendname" #Adress that will be used to receive, if clipboard is empty. Suitable if you download from the same person every time.
+USER_NAME = "yourname" #Adress that will be used to send.
 DOWNLOAD_FOLDER = str(Path.home() / "Downloads") #str(Path.home() / "Downloads")   to use default system download folder. Use "\" between folders in your custom path.
 TIME_TO_SEND_Y = 2 #croc needs confirmation to start downloading, so after opening the console it simulates pressing y in certain amount of seconds. Use 0 to disable. 2 by default.
 OPEN_DOWNLOADS = 1 #opens download folder after downloading complete. Use 0 to disable. 1 by default.
